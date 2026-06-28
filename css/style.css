@@ -39,7 +39,6 @@ h4{
 }
 
 body{
-    padding-top: 3em;
     background-color: #EEEEEE;
 }
 
@@ -60,6 +59,10 @@ img {
     width: 90%;
     max-width: 1140px;
     margin: 0 auto;
+}
+
+.card-set{
+    padding-top: 5em;
 }
 
 .card-row{
